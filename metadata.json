@@ -1,0 +1,7 @@
+{
+  "name": "Loving Homes - Luxury Dog Hotel",
+  "description": "A premium, interactive experience for a luxury dog hotel featuring cinematic visuals, AI concierge, and fluid animations.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
